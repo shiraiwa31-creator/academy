@@ -7,7 +7,7 @@
 - チーズ職人になりたい人に向けたLP
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://shiraiwa31-creator.github.io/academy/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 〇〇〇〇〇〇〇〇
